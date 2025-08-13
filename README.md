@@ -21,5 +21,5 @@ Bundan tashqari, API hujjatlari **drf-yasg** yordamida Swagger UI va ReDoc forma
 
 1. **Loyihani klonlash**
    ```bash
-   git clone https://github.com/username/student-api.git
-   cd student-api
+   git clone https://github.com/SardorToirov/DRF---VIEWSET.git
+   cd DRF---VIEWSET
